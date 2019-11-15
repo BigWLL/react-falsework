@@ -1,0 +1,14 @@
+{
+  "devUrl": "localhost",
+  "devPort": "8081",
+  "webTitle": "石家庄市裕华区科技创新开发区智慧平台",
+  "proUrl": "192.168.3.20",
+  "proPort": "8080",
+  "realUrl": "192.168.1.41",
+  "realPort": "8770",
+  "redux":true,
+  "antd":true,
+  "zoom": false,
+  "pageWidth": 1920,
+  "pageHeight": 1080
+}

@@ -1,0 +1,9 @@
+/**
+ * @Author: wll
+ * @Description: 用来支持zoom的样式
+ */
+
+.zoomify {
+  transform-origin: left top;
+  overflow: hidden;
+}

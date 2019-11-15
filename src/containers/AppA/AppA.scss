@@ -1,0 +1,18 @@
+$red:#cd0000;
+.strong{
+  color:$red;
+  background: #90cd00;
+  animation: changeTO 6s infinite;
+}
+
+@keyframes changeTO{
+  0% {
+    background: #90cd00;
+  }
+  50% {
+    background: #00b5cd;
+  }
+  100% {
+    background: #74c011;
+  }
+}

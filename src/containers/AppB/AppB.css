@@ -1,0 +1,19 @@
+li{
+    list-style: none;
+}
+.Appb{
+    animation: changeLiner 6s infinite alternate;
+    /* alternate 交替轮流的 */
+}
+
+@keyframes changeLiner{
+  0% {
+      transform: scale(.9);
+  }
+  50% {
+      transform: scale(1);
+  }
+  100%{
+    transform: scale(.9);
+  }
+}
