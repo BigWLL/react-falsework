@@ -6,7 +6,7 @@
     "antd-iconfont": "^3.0.3",
     "antd": "^3.7.3",
     "antd-mobile": "^2.2.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "echarts": "^4.2.0-rc.1",
     "echarts-gl": "^1.1.1",
     "lodash": "^4.17.11",
